@@ -1,5 +1,14 @@
 ### Frontend
 
+## About
+
+LiveTracker.UI is the frontend of the LiveTracker project. 
+It shows a map with a moving car marker based on real-time coordinates from the backend via SignalR.
+
+## Run Frontend
+
+> **Make sure the backend is running first!**
+
 ## Install dependencies
 
 ```bash
