@@ -19,6 +19,7 @@ The backend is an **ASP.NET Core SignalR** service sending coordinates, running 
 ```bash
 docker build -t livetracker-backend ./backend
 docker run -p 32771:80 livetracker-backend
+```
 
 ### Frontend
 
@@ -26,6 +27,7 @@ docker run -p 32771:80 livetracker-backend
 
 ```bash
 npm install
+```
 
 Then open your browser at:
 http://localhost:5173
