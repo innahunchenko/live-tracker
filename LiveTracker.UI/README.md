@@ -1,11 +1,10 @@
-Frontend
+### Frontend
 
-Install dependencies:
+## Install dependencies
 
+```bash
 npm install
+```
 
-Run frontend:
-
-npm run dev
-
-Open browser at http://localhost:5173
+Then open your browser at:
+http://localhost:5173
